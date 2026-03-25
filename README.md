@@ -8,3 +8,4 @@ Descrição: O projeto desenvolvido funcionará como um gerenciador de tarefas, 
 
 | Tarefa | Responsável | Prazo | Status |
 | :--- | :--- | :--- | :--- |
+| Protótipos de Telas | Demilly Lohany Gonçalves de Medeiros | 02/04/2026 | Em andamento |
