@@ -18,7 +18,7 @@ Descrição: O projeto desenvolvido funcionará como um gerenciador de tarefas, 
 | Página do perfil do usuário (Frontend + Backend) | Filipe Silva Souza Marcelino | até 15/06/2026 | --- |
 | Página de cadastrar tarefas (Frontend + Backend) | Demilly Lohany Gonçalves de Medeiros | até 30/06/2026 | --- |
 | Página de editar tarefas (Frontend + Backend) | Demilly Lohany Gonçalves de Medeiros | até 30/07/2026 | --- |
-| Página de checklist de tarefas (Frontend + Backend) | Filipe Silva Souza Marcelino | 20/08/2026 | --- |
+| Página de checklist de tarefas (Frontend + Backend) | Filipe Silva Souza Marcelino | até 20/08/2026 | --- |
 
 
 
