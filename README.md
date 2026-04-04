@@ -12,7 +12,7 @@ Descrição: O projeto desenvolvido funcionará como um gerenciador de tarefas, 
 | Tarefa | Responsável | Prazo | Status |
 | :--- | :--- | :--- | :--- |
 | Definição das ferramentas e tecnologias utlizadas | Grupo | até 31/03/2026 | Concluído |
-| Protótipos de Telas | Demilly Lohany Gonçalves de Medeiros | até 10/04/2026 | Em andamento |
+| Protótipos de Telas (Canva) | Demilly Lohany Gonçalves de Medeiros | até 10/04/2026 | Em andamento |
 | Página de cadastro (Frontend + Backend) | Camila Thaís Silva Medeiros | até 20/04/2026 | --- |
 | Página de login (Frontend + Backend)| Camila Thaís Silva Medeiros | até 25/05/2026 | --- |
 | Página do perfil do usuário (Frontend + Backend) | Filipe Silva Souza Marcelino | até 15/06/2026 | --- |
