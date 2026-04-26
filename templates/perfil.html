@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Perfil</title>
+</head>
+<body>
+    <h1>Perfil</h1>
+    <!--dados do usuario-->
+    <p>ID: {{ usuario[0] }}</p>
+    <p>Email: {{ usuario[1] }}</p>
+    <p>Nome: {{ usuario[2] }}</p>
+
+    <br>
+    <!--ir pra editar-->
+    <a href="/editar/{{ usuario[0] }}">Editar</a>
+    <br><br>
+    <!--sair-->
+    <a href="/sair">Sair</a>
+
+</body>
+</html>

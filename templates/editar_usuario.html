@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Editar</title>
+</head>
+<body>
+
+    <h1>Editar</h1>
+    <form action="/editar/{{ usuario[0] }}" method="post">
+
+        <input type="text" name="email" value="{{ usuario[1] }}">
+        <br><br>
+
+        <input type="text" name="nome" value="{{ usuario[2] }}">
+        <br><br>
+
+        <input type="text" name="senha" value="{{ usuario[3] }}">
+        <br><br>
+
+        <button type="submit">Salvar</button>
+    </form>
+
+    <br>
+    <a href="/perfil/{{ usuario[0] }}">Voltar</a>
+
+</body>
+</html>
