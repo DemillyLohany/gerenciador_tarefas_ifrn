@@ -4,13 +4,13 @@ Componentes: Camila Thaís Silva Medeiros, Demilly Lohany Gonçalves de Medeiros
 
 Descrição: O projeto consiste em um sistema de gerenciamento de tarefas voltado ao contexto acadêmico. A aplicação tem como objetivo auxiliar na organização, acompanhamento e controle das atividades dos usuários, proporcionando uma visualização centralizada de suas responsabilidades. Além disso, o sistema permite o monitoramento do progresso das tarefas, contribuindo para uma melhor gestão do tempo e análise do cumprimento das atividades atribuídas.
 
-#Tecnologia do Frontend: NextJS
+## Tecnologia do Frontend: NextJS
 
-#Tecnologias do Backend (API REST): FastAPI (Python)
+## Tecnologias do Backend (API REST): FastAPI (Python)
 
-#Banco de Dados: SQLite
+## Banco de Dados: SQLite
 
-#ORM (Mapeamento Objeto-Relacional): SQLModel
+## ORM (Mapeamento Objeto-Relacional): SQLModel
 
 
 
