@@ -12,9 +12,9 @@ ORM(Mapeamento Objeto-Relacional): SQLModel
 Banco de Dados: SQLite
 
 ## Funcionalidades Principais
-Cadastro e autenticação de usuários
-Gerenciamento completo de tarefas (CRUD)
-Controle automático de status das tarefas (pendente, concluída e atrasada)
-Priorização de tarefas com base na data prevista
-Temporizador Pomodoro para foco nas atividades
-Relatório semanal de desempenho do usuário
+- Cadastro e autenticação de usuários
+- Gerenciamento completo de tarefas (CRUD)
+- Controle automático de status das tarefas (pendente, concluída e atrasada)
+- Priorização de tarefas com base na data prevista
+- Temporizador Pomodoro para foco nas atividades
+- Relatório semanal de desempenho do usuário
