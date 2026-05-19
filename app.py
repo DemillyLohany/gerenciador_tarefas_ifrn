@@ -84,5 +84,11 @@ def deletar_usuario(id: int, session: SessionDep):
     return {"mensagem": "Conta deletada com sucesso"}
 
 # Próximas etapas:
+# - Trocar o Login por JWT: a autenticação por JWT (JSON Web Token)
 # - Implementar NextJS como ferramenta do Frontend das rotas acima
-# - Backend seguinte: crud de tarefas
+# - Backend seguinte: Tarefas
+
+
+
+
+
