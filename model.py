@@ -17,7 +17,7 @@ class Usuarios(SQLModel, table=True):
     id: Optional[int] = Field(default=None, primary_key=True)
     nome: str
     email: str = Field(sa_column_kwargs={"unique": True})
-    senha_hash: str
+    senha_hash: str = Field(max_length=72) 
 
     tarefas: List["Tarefas"] = Relationship(back_populates="usuario")
 
