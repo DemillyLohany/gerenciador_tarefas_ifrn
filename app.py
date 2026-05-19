@@ -118,8 +118,13 @@ def deletar_usuario(id: int, session: SessionDep):
 
     return {"mensagem": "Conta deletada com sucesso"}
 
+
 # Próximas etapas:
+
+# - Backend seguinte: Tarefas
 # - Backend seguinte: Tarefas
 # - Proteção de Rotas(usando Depends): pras rotas de tarefas (tipo editar) só funcionem 
 # se o usuário enviar esse access_token aí no cabeçalho da requisição. 
 # - Implementar NextJS como ferramenta do Frontend das rotas acima.
+# - Trocar o Login por JWT: a autenticação por JWT (JSON Web Token)
+
